@@ -1,14 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
 body {
+    background-color: #18181a;
 }
 
 main#container {
+    background-color: #242527;
+    border-radius: 5%;
 }
 
 h1.titulo {
+    color: #5959f8;
+    font-size: 35px;
+    font-family: 'Rampart One', cursive;
 }
 
 p.frase {
+    color: white;
 }
 
 p.autor {
+    color: #5959f8;
 }
